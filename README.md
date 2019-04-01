@@ -17,8 +17,8 @@ Sur la page/1 vous trouverez l'exercice d'API sur la météo. Je ne sais pas s'i
 
 ## Recommandation d'Utilisation
 
-Pour l'utilisation commencez par *installer la base de données* et *changer les define* dans le fichier database. Sinon Vous aurez un certain nombre d'ERROR sur la home.
-Deuxième point très important, il faut *changer l'URL dans public/index.php*. Sinon toute la construction du routing merdera.
+Pour l'utilisation commencez par **installer la base de données** et **changer les define** dans le fichier database. Sinon Vous aurez un certain nombre d'ERROR sur la home.
+Deuxième point très important, il faut **changer l'URL dans public/index.php**. Sinon toute la construction du routing merdera.
 
 Normalement ces deux points suffiront à faire marcher le projet.
 
